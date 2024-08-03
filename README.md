@@ -22,7 +22,7 @@ This portfolio website is a comprehensive presentation of my professional skills
 
 ## Demo
 
-You can view the live demo of the website [here](https://your-portfolio-url.com).
+You can view the live demo of the website [here](https://ifrahsarfraz.github.io/personal-portfolio-website/).
 
 ## Website Video
 
